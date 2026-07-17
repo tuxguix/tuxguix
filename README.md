@@ -19,12 +19,6 @@
 
 <p align="center">
     <a href="https://github.com/tuxguix">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=tuxguix&show_icons=true&theme=rose_pine&count_private=true"/>
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/tuxguix">
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tuxguix&layout=compact&langs_count=168&theme=rose_pine"/>
     </a>
 </p>
