@@ -10,8 +10,8 @@
 
 <div>
   <img src="https://www.svgrepo.com/show/200720/cpu-processor.svg" alt="CPU" width="22" height="22" style="vertical-align: middle; margin-right: 5px;" /> <strong>Hardware:</strong> A320M | Ryzen 5 4600G | 16GB RAM <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" width="22" height="22" style="vertical-align: middle; margin-right: 5px;" /> <strong>OS:</strong> Debian GNU/Linux 13 (Trixie) Stable <br>
-  <img src="https://www.svgrepo.com/show/316208/screen.svg" alt="DE" width="22" height="22" style="vertical-align: middle; margin-right: 5px;" /> <strong>DE/WM:</strong> i3wm <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Debian" width="22" height="22" style="vertical-align: middle; margin-right: 5px;" /> <strong>OS:</strong> ArchLinux x86_64 <br>
+  <img src="https://www.svgrepo.com/show/316208/screen.svg" alt="DE" width="22" height="22" style="vertical-align: middle; margin-right: 5px;" /> <strong>DE/WM:</strong> i3wm / i3status / rofi / kitty <br>
   <img src="https://www.svgrepo.com/show/496076/code-circle.svg" alt="IDE" width="22" height="22" style="vertical-align: middle; margin-right: 5px;" /> <strong>Editor:</strong> Neovim (Lazyvim) / Geany <br>
 </div>
 
