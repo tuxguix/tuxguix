@@ -15,7 +15,17 @@
   <img src="https://www.svgrepo.com/show/496076/code-circle.svg" alt="IDE" width="22" height="22" style="vertical-align: middle; margin-right: 5px;" /> <strong>Editor:</strong> Neovim (Lazyvim) / Geany <br>
 </div>
 
-<hr> 
+<hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuxguix&hide=contribs,prs&theme=dark) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuxguix&layout=compact&theme=dark)
+<p align="center">
+    <a href="https://github.com/tuxguix">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=kdzr0&show_icons=true&theme=rose_pine&count_private=true"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/tuxguix">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kdzr0&layout=compact&langs_count=168&theme=rose_pine"/>
+    </a>
+</p>
+
